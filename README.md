@@ -4,7 +4,7 @@ This repository contains Power BI dashboards designed for HR management. Below a
 
 ## Home Page Dashboard
 
-![Home Page](images/home.png)
+![Home Page](images/Home.png)
 
 The Home Page dashboard showcases critical HR metrics:
 - Total employees, gender distribution (males and females)
@@ -14,7 +14,7 @@ The Home Page dashboard showcases critical HR metrics:
 
 ## Action Page Dashboard
 
-![Action Page](images/action.png)
+![Action Page](images/Action.png)
 
 The Action Page dashboard lists:
 - Employees eligible for promotion
@@ -22,7 +22,7 @@ The Action Page dashboard lists:
 
 ## Detail Page Dashboard
 
-![Detail Page](images/detail.png)
+![Detail Page](images/Detail.png)
 
 The Detail Page provides in-depth insights:
 - Breakdown of promotion and layoff statuses by department
